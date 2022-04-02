@@ -8,7 +8,7 @@
     "stock": 20,
     "ratings": 4,
     "ratingsCount": 3725,
-    "img": "./products/product-1.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-1.jpg",
     "shipping": 10,
     "quantity": 0
   },
@@ -21,7 +21,7 @@
     "stock": 27,
     "ratings": 4.5,
     "ratingsCount": 4081,
-    "img": "./products/product-2.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-2.jpg",
     "shipping": 5,
     "quantity": 0
   },
@@ -34,7 +34,7 @@
     "stock": 38,
     "ratings": 5,
     "ratingsCount": 3510,
-    "img": "./products/product-3.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-3.jpg",
     "shipping": 5,
     "quantity": 0
   },
@@ -47,7 +47,7 @@
     "stock": 24,
     "ratings": 4,
     "ratingsCount": 3938,
-    "img": "./products/product-4.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-4.jpg",
     "shipping": 8,
     "quantity": 0
   },
@@ -60,7 +60,7 @@
     "stock": 42,
     "ratings": 5,
     "ratingsCount": 4352,
-    "img": "./products/product-5.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-5.jpg",
     "shipping": 10,
     "quantity": 0
   },
@@ -73,7 +73,7 @@
     "stock": 18,
     "ratings": 5,
     "ratingsCount": 3159,
-    "img": "./products/product-6.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-6.jpg",
     "shipping": 5,
     "quantity": 0
   },
@@ -86,7 +86,7 @@
     "stock": 23,
     "ratings": 4,
     "ratingsCount": 4460,
-    "img": "./products/product-7.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-7.jpg",
     "shipping": 5,
     "quantity": 0
   },
@@ -99,7 +99,7 @@
     "stock": 25,
     "ratings": 5,
     "ratingsCount": 4896,
-    "img": "./products/product-8.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-8.jpg",
     "shipping": 4.5,
     "quantity": 0
   },
@@ -112,7 +112,7 @@
     "stock": 15,
     "ratings": 4,
     "ratingsCount": 4896,
-    "img": "./products/product-9.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-9.jpg",
     "shipping": 4.5,
     "quantity": 0
   },
@@ -125,7 +125,7 @@
     "stock": 48,
     "ratings": 5,
     "ratingsCount": 4989,
-    "img": "./products/product-10.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-10.jpg",
     "shipping": 10,
     "quantity": 0
   },
@@ -138,7 +138,7 @@
     "stock": 52,
     "ratings": 4,
     "ratingsCount": 3368,
-    "img": "./products/product-11.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-11.jpg",
     "shipping": 5,
     "quantity": 0
   },
@@ -151,7 +151,7 @@
     "stock": 31,
     "ratings": 4.5,
     "ratingsCount": 3576,
-    "img": "./products/product-12.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/decorative-products/products/product-12.jpg",
     "shipping": 9,
     "quantity": 0
   }
