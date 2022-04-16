@@ -64,5 +64,71 @@
     "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/breakfast/breakfast6.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
     "quantity": 0
+  },
+  {
+    "id": "7",
+    "name": "Healthy Meal Set",
+    "category": "Lunch",
+    "origin": "Turkey",
+    "price": 15.99,
+    "ratings": 4,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch1.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
+  },
+  {
+    "id": "8",
+    "name": "Fried Chicken Bento",
+    "category": "Lunch",
+    "origin": "Pakistani",
+    "price": 23.99,
+    "ratings": 4.5,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch2.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
+  },
+  {
+    "id": "9",
+    "name": "Terragon Rubbed Salmon",
+    "category": "Lunch",
+    "origin": "Arabian",
+    "price": 18.99,
+    "ratings": 5,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch3.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
+  },
+  {
+    "id": "10",
+    "name": "Indian Meal Set",
+    "category": "Lunch",
+    "origin": "Indian",
+    "price": 20.99,
+    "ratings": 4,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch4.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
+  },
+  {
+    "id": "11",
+    "name": "Beef Stick",
+    "category": "Lunch",
+    "origin": "Afghani",
+    "price": 12.99,
+    "ratings": 4.5,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch5.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
+  },
+  {
+    "id": "12",
+    "name": "Honey Soy with Peppers",
+    "category": "Lunch",
+    "origin": "Bengali",
+    "price": 7.99,
+    "ratings": 5,
+    "img": "https://shareefrahat.github.io/custom-db-json/meals-items/items/lunch/lunch6.png",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, deserunt",
+    "quantity": 0
   }
 ]
