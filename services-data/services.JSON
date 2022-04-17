@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Meal and Diet Plan",
+    "name": "Meal & Diet Plan",
     "price": 49.99,
     "img": "https://shareefrahat.github.io/custom-db-json/service-data/images/service-1.jpg",
     "description": "Getting dinner on the table can be a struggle. Finding recipes may be easy, but picking the right ones..."
@@ -14,7 +14,7 @@
     "description": "Have you considered investing in a metabolism test for weight loss or increased exercise performance?"
   },
   {
-    "id": "",
+    "id": "3",
     "name": "Nutrition Counseling",
     "price": 99.99,
     "img": "https://shareefrahat.github.io/custom-db-json/service-data/images/service-2.jpg",
