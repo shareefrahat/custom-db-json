@@ -3,14 +3,14 @@
     "id": "1",
     "name": "Meal & Diet Plan",
     "price": 49.99,
-    "img": "https://shareefrahat.github.io/custom-db-json/services-data/images/service3.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/services-data/images/service1.jpg",
     "description": "Getting dinner on the table can be a struggle. Finding recipes may be easy, but picking the right ones..."
   },
   {
     "id": "2",
     "name": "Metabolism Testing",
     "price": 75.99,
-    "img": "https://shareefrahat.github.io/custom-db-json/services-data/images/service3.jpg",
+    "img": "https://shareefrahat.github.io/custom-db-json/services-data/images/service2.jpg",
     "description": "Have you considered investing in a metabolism test for weight loss or increased exercise performance?"
   },
   {
